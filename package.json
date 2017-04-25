@@ -1,0 +1,17 @@
+{
+  "name": "ctmembers-no-toolchain-no-refactoring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ctmembereditformcsr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jquery": "^2.0.41",
+    "@types/knockout": "^3.4.40",
+    "@types/sharepoint": "^2013.1.2"
+  },
+  "dependencies": {}
+}
